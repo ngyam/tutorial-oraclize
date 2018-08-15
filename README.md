@@ -1,6 +1,6 @@
 # Ethereum Oraclize tutorial on a private network (Tobalaba test network)
 
-For educational purposes. Supplement to [this ewf wiki post](https://energyweb.atlassian.net/wiki/spaces/EWF/pages/558432257/Data+for+your+contracts+Oracles+with+Oraclize).
+For educational purposes. Supplement to [this ewf wiki post](https://energyweb.atlassian.net/wiki/spaces/EWF/pages/558432257/Data+for+your+contracts+Oracles+with+Oraclize). The examples were taken from the [oraclize/ethereum-examples repo](https://github.com/oraclize/ethereum-examples), then extended/modified to make them more wholesome.
 
 Tested with [Parity client](https://github.com/paritytech/parity-ethereum) version 1.11.6 Beta.
 
